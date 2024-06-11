@@ -1,5 +1,4 @@
-👋 ## Hi, I'm @iraharkness
-
+- 👋 Hi, I'm @iraharkness
 - 🔭 I’m currently working on LaTeX templates for student learning assessments
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on engineering education
