@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @iraharkness
 - 🔭 I’m currently working on LaTeX templates for student learning assessments
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and LaTeX
 - 👯 I’m looking to collaborate on engineering education
 
 <!--
